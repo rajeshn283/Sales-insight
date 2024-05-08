@@ -35,3 +35,16 @@ visual representation to make data driven decisions. So, he hired a team of data
 4. In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
 5. Created measure for needs and used them for creating visuals in PowerBi.
 6. After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
+
+## Final result 
+
+#### Initial Dashboard
+
+---
+<img src="https://github.com/rajeshn283/Sales-insight/blob/main/Initial%20dashboard.jpg" width="550" class="center">
+
+#### Updated Dashboard
+
+---
+<img src="https://github.com/rajeshn283/Sales-insight/blob/main/Updated%20Dashboard.jpg" width="550" class="center">
+
