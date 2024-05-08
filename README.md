@@ -4,6 +4,12 @@ This is a project I replicated from Codebasics PowerBi Youtube playlist. You can
 
 [Codebasics Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 
+# Link to my Dashboard
+(https://github.com/rajeshn283/Sales-insight/blob/main/Sales%20Insights%20PDF.pdf)
+
+# Link to Project File
+(https://github.com/rajeshn283/Sales-insight/blob/main/Sales%20Insights_P1.pbix)
+
 
 ## Problem statement
 
