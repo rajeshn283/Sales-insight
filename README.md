@@ -1,27 +1,31 @@
-## Sales Insight Report :
+# AtliQ Sales Insights
+
+This is a project I replicated from Codebasics PowerBi Youtube playlist. You can find the link of the playlist below.
+
+[Codebasics Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 
 
-- **Project objective:** 
+## Problem statement
 
-    **1.** Create a _[sales insight report](https://github.com/rajeshn283/Sales-insight/blob/main/Sales%20Insight%20Project.pdf)_ 
+AtliQ hardware is a company which delivers computer hardware & peripheral 
+Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of
+issues in terms of understanding how the business is performing and what are all the problem company is
+facing currently as the sales are not as expected and declining gradually. And whenever he calls the regional managers
+to get the current status of the sales and market, as a human behaviour, these people 
+sugar cote the truth and send tons of Excel files instead of disclosing the truth, which made the sales director more frustrated.
+Humans are not comfortable in consuming numbers from excel files, which is obvious reason for the frustration.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+## Solution 
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into 
+visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
 
-- **Role of report:** Determine effective revenue trend,total revenue,top 5 customers,top 5 products,total sales quantity and the revenue sales based on years and months.
 
+## Steps Followed in this project
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Creating measures based on the requirements.
-- [x]	Managing realtionships with the data model in power BI.
-- [x]	Creating a detailed report with Power BI based on the requirements.
-- [x]	Utilizing DAX to create calculated columns.
-
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+1. Performed a High level analysis of data in SQL to get better understanding over the data.
+2. Connected the SQL data set to PowerBI.
+3. Performed ETL and data cleaning on the imported data.
+4. In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
+5. Created measure for needs and used them for creating visuals in PowerBi.
+6. After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
